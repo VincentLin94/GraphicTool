@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="057fd0dd-c372-42ce-b652-f15c3cc45bc0" name="Default Changelist" comment="" />
+    <list default="true" id="057fd0dd-c372-42ce-b652-f15c3cc45bc0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GT_1.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/GraphicTool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestField.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestField.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,21 +37,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lQ1FYnm28IVjBRawXTOvUHSkp0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Coding\PythonProjects\GraphicTool" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.GT_1.2">
+  <component name="RunManager" selected="Python.GraphicTool">
     <configuration name="GT_1.0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GraphicTool" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,19 +100,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GT_1.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GraphicTool" />
+    <configuration name="GraphicTool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="E:\Anaconda\envs\PythonProjects\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GT_1.2.py" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="E:\Coding\PythonProjects\GraphicTool\GraphicTool.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,9 +142,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.GT_1.0" />
+      <item itemvalue="Python.GT_1.1" />
+      <item itemvalue="Python.TestField" />
+      <item itemvalue="Python.GraphicTool" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.GT_1.2" />
+        <item itemvalue="Python.GraphicTool" />
         <item itemvalue="Python.TestField" />
         <item itemvalue="Python.GT_1.1" />
         <item itemvalue="Python.GT_1.0" />
@@ -133,26 +168,41 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="584" height="852" key="GridCell.Tab.0.bottom" timestamp="1607600448011">
+    <state x="406" y="147" width="1107" height="849" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607939213866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="584" height="852" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607600448011" />
-    <state width="584" height="852" key="GridCell.Tab.0.center" timestamp="1607600448011">
+    <state x="406" y="147" width="1107" height="849" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607939213866" />
+    <state width="513" height="852" key="GridCell.Tab.0.bottom" timestamp="1608020880464">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="584" height="852" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607600448011" />
-    <state width="584" height="852" key="GridCell.Tab.0.left" timestamp="1607600448011">
+    <state width="513" height="852" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608020880464" />
+    <state width="513" height="852" key="GridCell.Tab.0.center" timestamp="1608020880464">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="584" height="852" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607600448011" />
-    <state width="584" height="852" key="GridCell.Tab.0.right" timestamp="1607600448011">
+    <state width="513" height="852" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608020880464" />
+    <state width="513" height="852" key="GridCell.Tab.0.left" timestamp="1608020880464">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="584" height="852" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607600448011" />
-    <state x="461" y="0" key="SettingsEditor" timestamp="1607582747476">
+    <state width="513" height="852" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608020880464" />
+    <state width="513" height="852" key="GridCell.Tab.0.right" timestamp="1608020880464">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607582747476" />
+    <state width="513" height="852" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608020880464" />
+    <state x="461" y="0" key="SettingsEditor" timestamp="1607939758995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607939758995" />
   </component>
 </project>
