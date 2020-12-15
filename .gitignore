@@ -2,4 +2,5 @@
 *.exe
 *.zip
 *.txt
-*.txt
+*.log
+
